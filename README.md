@@ -105,7 +105,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-https://docs.google.com/document/d/1Py_RgDop4Xj1pXLkjNR6I6baWvex6MDRJxRP5cfyDFk/edit?usp=sharing
+https://github.com/twebbv89/ELK-Stack/blob/main/Images/sudo_docker_ps.png
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines: Private IP's of Web-1, Web-2, Web-3, and ELK VM's.
