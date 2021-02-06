@@ -132,6 +132,6 @@ SSH into the control node and follow the steps below:
 - Update the hosts file to include webservers and elk
 - Run the playbooks and navigate to Kibana (http://http://52.165.144.163:5601/app/kibana) to check that the installation worked as expected.
 
-https://docs.google.com/document/d/1LxCYJENzy2-s0IbgmAI77qsDUFCSBFgxI8foVCyFbzA/edit?usp=sharing
-https://docs.google.com/document/d/1LP3hNtcGFj_oztXdBb8v9XQ985jKDMyTaHW4qK-1u44/edit?usp=sharing
+https://github.com/twebbv89/ELK-Stack/blob/main/Images/Project%201%20Filebeat%20Data%20Confirm.png
+https://github.com/twebbv89/ELK-Stack/blob/main/Images/Project%201%20Metricbeat%20Data%20Confirm.png
 
